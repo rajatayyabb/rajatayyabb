@@ -55,11 +55,37 @@ mission: "make security knowledge practical and responsible"
 
 ## `// SELECTED BUILDS`
 
+<div align="center">
+
+> **Pinned in this exact order:** `NullShadow-v5` → `cookie-sync` → `SpiderCore-PE` → `WraithForge`
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` · [SpiderCore-PE](https://github.com/rajatayyabb/SpiderCore-PE)
+### `01` · [NullShadow-v5](https://github.com/rajatayyabb/NullShadow-v5)
+
+> Security-focused project in the lab — experiments, ideas, and tooling on the path to stronger defensive systems.
+
+`SECURITY` `LAB` `EXPERIMENTS`
+
+</td>
+<td width="50%" valign="top">
+
+### `02` · [cookie-sync](https://github.com/rajatayyabb/cookie-sync)
+
+> Repository preserved as a clean project archive while the next secure build takes shape.
+
+`ARCHIVE` `SECURITY` `LAB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` · [SpiderCore-PE](https://github.com/rajatayyabb/SpiderCore-PE)
 
 > Windows PE recovery and cybersecurity toolkit for diagnostics, recovery workflows, and security-focused system utilities.
 
@@ -68,31 +94,11 @@ mission: "make security knowledge practical and responsible"
 </td>
 <td width="50%" valign="top">
 
-### `02` · [Cybraion](https://github.com/rajatayyabb/cybraion)
-
-> Runtime security and action-authorization gateway for autonomous AI agents.
-
-`PYTHON` `AI SECURITY` `AUTHORIZATION`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` · [WraithForge](https://github.com/rajatayyabb/wraithforge)
+### `04` · [WraithForge](https://github.com/rajatayyabb/wraithforge)
 
 > Multi-agent orchestration scaffold for coordinated, security-conscious automation experiments.
 
 `AI AGENTS` `AUTOMATION` `ORCHESTRATION`
-
-</td>
-<td width="50%" valign="top">
-
-### `04` · [Tayyab-Sec](https://github.com/rajatayyabb/Tayyab-Sec)
-
-> A growing lab for cybersecurity experiments, utilities, notes, and learning projects.
-
-`SECURITY` `RESEARCH` `TOOLS`
 
 </td>
 </tr>
@@ -180,11 +186,29 @@ I believe cybersecurity is strongest when knowledge becomes protection—not noi
 
 ---
 
+## `// AUTOMATION LINK`
+
+<div align="center">
+
+<img src="./automation-terminal.gif" alt="Animated security automation terminal" width="96%" />
+
+</div>
+
+```console
+┌──(tayyab㉿github)-[~/collaboration] 
+└─$ connect --mode=responsible
+  [01] bring a real security problem
+  [02] build something useful
+  [03] document what changed
+  [04] ship the safer version
+``
+
 ## `// CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/rajatayyabb"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/rajatayyabb?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_LAB-00f5d4?style=for-the-badge&labelColor=080b12" alt="Explore repositories" /></a>
+<a href="https://github.com/rajatayyabb?tab=followers"><img src="https://img.shields.io/badge/JOIN_THE_BUILD-7c3aed?style=for-the-badge&labelColor=080b12" alt="Follow on GitHub" /></a>
 
 <br /><br />
 
