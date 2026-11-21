@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./automation-terminal.gif" alt="Animated security automation terminal" width="100%" />
+<img src="./security-automation.gif" alt="Animated security automation terminal" width="100%" />
 
 <a href="https://github.com/rajatayyabb">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=SECURITY+IS+A+MINDSET;BUILD+%E2%86%92+BREAK+SAFELY+%E2%86%92+HARDEN;CYBERSECURITY+STUDENT+IN+THE+LAB" alt="Animated profile tagline" />
@@ -194,7 +194,7 @@ I believe cybersecurity is strongest when knowledge becomes protection—not noi
 
 <div align="center">
 
-<img src="./automation-terminal.gif" alt="Animated security automation terminal" width="96%" />
+<img src="./security-automation.gif" alt="Animated security automation terminal" width="96%" />
 
 </div>
 
