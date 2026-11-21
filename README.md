@@ -213,6 +213,7 @@ I believe cybersecurity is strongest when knowledge becomes protection—not noi
 
 <a href="https://github.com/rajatayyabb?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_LAB-00f5d4?style=for-the-badge&labelColor=080b12" alt="Explore repositories" /></a>
 <a href="https://github.com/rajatayyabb?tab=followers"><img src="https://img.shields.io/badge/JOIN_THE_BUILD-7c3aed?style=for-the-badge&labelColor=080b12" alt="Follow on GitHub" /></a>
+<a href="https://www.linkedin.com/in/tayyab-ali-053542383/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br /><br />
 
