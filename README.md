@@ -1,146 +1,197 @@
 <div align="center">
 
-# Hi, I'm Tayyab Ali
+<img src="./cyber-banner.png" alt="Cybersecurity command center banner" width="100%" />
 
-### Cybersecurity Student · Security Tool Builder · AI & Automation Explorer
+<br />
 
-<a href="https://github.com/rajatayyabb">
-  <img src="https://komarev.com/ghpvc/?username=rajatayyabb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</a>
-<a href="https://github.com/rajatayyabb?tab=followers">
-  <img src="https://img.shields.io/github/followers/rajatayyabb?label=Followers&style=flat&color=181717" alt="GitHub followers" />
-</a>
-<a href="https://github.com/rajatayyabb?tab=repositories">
-  <img src="https://img.shields.io/github/stars/rajatayyabb?label=Stars&style=flat&color=f5c542" alt="GitHub stars" />
-</a>
+# `TAYYAB ALI`
+
+### `CYBERSECURITY STUDENT` · `SECURITY TOOL BUILDER` · `AI SAFETY EXPLORER`
+
+<a href="https://github.com/rajatayyabb"><img src="https://img.shields.io/badge/ACCESS-GITHUB-00f5d4?style=for-the-badge&labelColor=080b12" alt="GitHub" /></a>
+<a href="https://github.com/rajatayyabb?tab=repositories"><img src="https://img.shields.io/badge/STATUS-BUILDING-7c3aed?style=for-the-badge&labelColor=080b12" alt="Building" /></a>
+<a href="https://github.com/rajatayyabb?tab=followers"><img src="https://img.shields.io/github/followers/rajatayyabb?style=for-the-badge&label=FOLLOWERS&color=22c55e&labelColor=080b12" alt="Followers" /></a>
+
+</div>
+
+```console
+┌──(tayyab㉿github)-[~/security-lab]
+└─$ whoami
+  cybersecurity student building practical tools for safer systems
+
+└─$ current_mission --print
+  learn how systems fail → engineer how they recover → document the journey
+
+└─$ system_status
+  [ONLINE] defensive security     [ONLINE] automation     [LEARNING] digital forensics
+```
+
+<div align="center">
+
+[ `ABOUT` ](#-about-me) · [ `PROJECTS` ](#-selected-builds) · [ `STACK` ](#-security-stack) · [ `STATS` ](#-github-signal)
 
 </div>
 
 ---
 
-## About Me
+## `// ABOUT ME`
 
-I’m a cybersecurity student who enjoys turning security ideas into practical tools. My interests include defensive security, Windows internals, security automation, AI agent safety, and building reliable developer utilities.
+I’m **Tayyab Ali**, a cybersecurity student focused on understanding systems from the inside out and turning that knowledge into useful security tooling.
 
-- Currently learning: **ethical hacking, malware analysis, digital forensics, and secure software development**
-- Building: **security tools, automation workflows, and AI-assisted systems**
-- Interested in: **blue teaming, vulnerability research, threat detection, and open source**
-- Open to: **collaboration, learning opportunities, and security-focused projects**
+I’m currently exploring **defensive security, Windows internals, ethical hacking, secure software development, digital forensics, and AI agent safety**. I like projects that sit between security research and practical engineering: tools that detect, recover, authorize, automate, or explain.
 
-> My goal is simple: understand how systems fail, then build better ways to protect them.
+```yaml
+focus:
+  - defensive_security
+  - security_automation
+  - windows_security
+  - ai_agent_safety
+  - open_source_learning
+mindset: "build it, break it safely, understand it, improve it"
+mission: "make security knowledge practical and responsible"
+```
 
 ---
 
-## Featured Projects
+## `// SELECTED BUILDS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [SpiderCore-PE](https://github.com/rajatayyabb/SpiderCore-PE)
-A personal Windows PE recovery and cybersecurity toolkit focused on system recovery, diagnostics, and security workflows.
+### `01` · [SpiderCore-PE](https://github.com/rajatayyabb/SpiderCore-PE)
 
-`Windows` `Security` `Recovery` `PowerShell`
+> Windows PE recovery and cybersecurity toolkit for diagnostics, recovery workflows, and security-focused system utilities.
+
+`WINDOWS` `POWERSHELL` `RECOVERY`
 
 </td>
 <td width="50%" valign="top">
 
-### [Cybraion](https://github.com/rajatayyabb/cybraion)
-A runtime security and action-authorization gateway for autonomous AI agents.
+### `02` · [Cybraion](https://github.com/rajatayyabb/cybraion)
 
-`Python` `AI Security` `Authorization` `Runtime Protection`
+> Runtime security and action-authorization gateway for autonomous AI agents.
+
+`PYTHON` `AI SECURITY` `AUTHORIZATION`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [WraithForge](https://github.com/rajatayyabb/wraithforge)
-A multi-agent orchestration scaffold for experimenting with coordinated, security-conscious automation.
+### `03` · [WraithForge](https://github.com/rajatayyabb/wraithforge)
 
-`AI Agents` `Automation` `Python`
+> Multi-agent orchestration scaffold for coordinated, security-conscious automation experiments.
+
+`AI AGENTS` `AUTOMATION` `ORCHESTRATION`
 
 </td>
 <td width="50%" valign="top">
 
-### [Tayyab-Sec](https://github.com/rajatayyabb/Tayyab-Sec)
-A growing space for cybersecurity experiments, utilities, and learning projects.
+### `04` · [Tayyab-Sec](https://github.com/rajatayyabb/Tayyab-Sec)
 
-`Cybersecurity` `Research` `Tools`
+> A growing lab for cybersecurity experiments, utilities, notes, and learning projects.
+
+`SECURITY` `RESEARCH` `TOOLS`
 
 </td>
 </tr>
 </table>
 
----
-
-## Security Focus
-
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![PowerShell](https://img.shields.io/badge/PowerShell-0f172a?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![AI Security](https://img.shields.io/badge/AI%20Security-0f172a?style=for-the-badge&logo=openai&logoColor=white)
+<a href="https://github.com/rajatayyabb?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00f5d4?style=for-the-badge&labelColor=080b12" alt="View all repositories" /></a>
 
 </div>
 
-### Areas I’m Exploring
+---
+
+## `// SECURITY STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,powershell,linux,windows,git,github,vscode&theme=dark" alt="Core tools" />
+
+<br /><br />
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-00f5d4?style=flat-square&labelColor=080b12)
+![Threat Detection](https://img.shields.io/badge/THREAT_DETECTION-22c55e?style=flat-square&labelColor=080b12)
+![Secure Coding](https://img.shields.io/badge/SECURE_CODING-7c3aed?style=flat-square&labelColor=080b12)
+![Automation](https://img.shields.io/badge/AUTOMATION-f59e0b?style=flat-square&labelColor=080b12)
+![AI Safety](https://img.shields.io/badge/AI_SAFETY-06b6d4?style=flat-square&labelColor=080b12)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-e2e8f0?style=flat-square&labelColor=080b12)
+
+</div>
+
+| Domain | Current direction |
+| --- | --- |
+| **Defense** | system hardening, detection thinking, security utilities |
+| **Systems** | Windows internals, PowerShell, Linux fundamentals |
+| **Research** | ethical hacking, vulnerability concepts, forensics |
+| **Engineering** | Python tooling, automation, reliable developer workflows |
+| **AI security** | runtime authorization, agent boundaries, safe actions |
+
+---
+
+## `// LEARNING QUEUE`
 
 ```text
-Defensive Security       ███████████████░░░░░  Learning & building
-Security Automation      ██████████████░░░░░░  Practical tooling
-Python & PowerShell      ██████████████░░░░░░  System utilities
-Windows Security         ████████████░░░░░░░░  Research projects
-AI Agent Safety          ███████████░░░░░░░░░  Runtime protection
-Digital Forensics        █████████░░░░░░░░░░░  Growing focus
+[██████████████░░░░░░]  Defensive Security
+[█████████████░░░░░░░]  Security Automation
+[████████████░░░░░░░░]  Windows Internals
+[███████████░░░░░░░░░]  Digital Forensics
+[██████████░░░░░░░░░░]  AI Agent Safety
+[█████████░░░░░░░░░░░]  Responsible Vulnerability Research
 ```
 
 ---
 
-## GitHub Activity
+## `// GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajatayyabb&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Tayyab's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatayyabb&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajatayyabb&show_icons=true&hide_border=true&bg_color=080b12&title_color=00f5d4&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatayyabb&layout=compact&hide_border=true&bg_color=080b12&title_color=00f5d4&text_color=e2e8f0" height="170" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=rajatayyabb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=rajatayyabb&theme=dark&hide_border=true&background=080b12&ring=00f5d4&fire=f59e0b&currStreakLabel=00f5d4" alt="GitHub contribution streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatayyabb&bg_color=080b12&color=e2e8f0&line=00f5d4&point=7c3aed&area=true&hide_border=true" width="96%" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## Contributions & Learning
+## `// PRINCIPLES`
 
-I believe cybersecurity is best learned by building, breaking, documenting, and improving. I’m working toward stronger foundations in secure coding, operating-system security, networking, incident response, and responsible vulnerability research.
+> **Learn deeply. Build responsibly. Share clearly.**
+
+I believe cybersecurity is strongest when knowledge becomes protection—not noise. Every experiment here is part of a longer path toward building systems that are more observable, recoverable, and difficult to misuse.
 
 ```diff
-+ Build useful tools
-+ Study how attacks work
-+ Protect systems and users
-+ Document what I learn
-- Never misuse security knowledge
++ Curiosity over shortcuts
++ Responsible research over reckless testing
++ Useful tools over empty complexity
++ Documentation over mystery
 ```
 
 ---
 
-## Connect With Me
+## `// CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/rajatayyabb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/rajatayyabb"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-</div>
+<br /><br />
 
-<div align="center">
+<sub>OPEN TO LEARNING, BUILDING, AND SECURITY-FOCUSED COLLABORATION</sub>
 
-### Thanks for visiting
+<br /><br />
 
-*Explore the repositories, follow the journey, and feel free to connect.*
+<img src="https://komarev.com/ghpvc/?username=rajatayyabb&label=VISITORS&color=00f5d4&style=flat-square" alt="Profile views" />
 
 </div>
